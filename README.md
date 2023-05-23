@@ -7,7 +7,7 @@ C++ Audio Player with GUI written on .NET Framework
 - [PortAudio](https://github.com/PortAudio/portaudio)
 - WindowsAPI
 
-### TODO
+## TODO
 - [ ] Refactoring
 - [ ] Optimize app performance
 - [ ] Redesign with custom components
